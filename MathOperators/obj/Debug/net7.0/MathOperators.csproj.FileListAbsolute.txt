@@ -1,0 +1,14 @@
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\MathOperators\bin\Debug\net7.0\MathOperators.exe
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\MathOperators\bin\Debug\net7.0\MathOperators.deps.json
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\MathOperators\bin\Debug\net7.0\MathOperators.runtimeconfig.json
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\MathOperators\bin\Debug\net7.0\MathOperators.dll
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\MathOperators\bin\Debug\net7.0\MathOperators.pdb
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\MathOperators\obj\Debug\net7.0\MathOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\MathOperators\obj\Debug\net7.0\MathOperators.AssemblyInfoInputs.cache
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\MathOperators\obj\Debug\net7.0\MathOperators.AssemblyInfo.cs
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\MathOperators\obj\Debug\net7.0\MathOperators.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\MathOperators\obj\Debug\net7.0\MathOperators.dll
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\MathOperators\obj\Debug\net7.0\refint\MathOperators.dll
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\MathOperators\obj\Debug\net7.0\MathOperators.pdb
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\MathOperators\obj\Debug\net7.0\MathOperators.genruntimeconfig.cache
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\MathOperators\obj\Debug\net7.0\ref\MathOperators.dll
