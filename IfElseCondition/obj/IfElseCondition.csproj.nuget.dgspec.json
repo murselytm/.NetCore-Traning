@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\0\\Desktop\\.Net-Core-Yeni-Baslayanlar\\TypeConversition\\TypeConversition.csproj": {}
+    "C:\\Users\\0\\Desktop\\.Net-Core-Yeni-Baslayanlar\\IfElseCondition\\IfElseCondition.csproj": {}
   },
   "projects": {
-    "C:\\Users\\0\\Desktop\\.Net-Core-Yeni-Baslayanlar\\TypeConversition\\TypeConversition.csproj": {
+    "C:\\Users\\0\\Desktop\\.Net-Core-Yeni-Baslayanlar\\IfElseCondition\\IfElseCondition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\0\\Desktop\\.Net-Core-Yeni-Baslayanlar\\TypeConversition\\TypeConversition.csproj",
-        "projectName": "TypeConversition",
-        "projectPath": "C:\\Users\\0\\Desktop\\.Net-Core-Yeni-Baslayanlar\\TypeConversition\\TypeConversition.csproj",
+        "projectUniqueName": "C:\\Users\\0\\Desktop\\.Net-Core-Yeni-Baslayanlar\\IfElseCondition\\IfElseCondition.csproj",
+        "projectName": "IfElseCondition",
+        "projectPath": "C:\\Users\\0\\Desktop\\.Net-Core-Yeni-Baslayanlar\\IfElseCondition\\IfElseCondition.csproj",
         "packagesPath": "C:\\Users\\0\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\0\\Desktop\\.Net-Core-Yeni-Baslayanlar\\TypeConversition\\obj\\",
+        "outputPath": "C:\\Users\\0\\Desktop\\.Net-Core-Yeni-Baslayanlar\\IfElseCondition\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\0\\AppData\\Roaming\\NuGet\\NuGet.Config"

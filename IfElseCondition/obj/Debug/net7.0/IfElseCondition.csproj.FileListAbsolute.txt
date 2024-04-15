@@ -1,0 +1,14 @@
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\IfElseCondition\bin\Debug\net7.0\IfElseCondition.exe
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\IfElseCondition\bin\Debug\net7.0\IfElseCondition.deps.json
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\IfElseCondition\bin\Debug\net7.0\IfElseCondition.runtimeconfig.json
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\IfElseCondition\bin\Debug\net7.0\IfElseCondition.dll
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\IfElseCondition\bin\Debug\net7.0\IfElseCondition.pdb
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\IfElseCondition\obj\Debug\net7.0\IfElseCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\IfElseCondition\obj\Debug\net7.0\IfElseCondition.AssemblyInfoInputs.cache
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\IfElseCondition\obj\Debug\net7.0\IfElseCondition.AssemblyInfo.cs
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\IfElseCondition\obj\Debug\net7.0\IfElseCondition.csproj.CoreCompileInputs.cache
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\IfElseCondition\obj\Debug\net7.0\IfElseCondition.dll
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\IfElseCondition\obj\Debug\net7.0\refint\IfElseCondition.dll
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\IfElseCondition\obj\Debug\net7.0\IfElseCondition.pdb
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\IfElseCondition\obj\Debug\net7.0\IfElseCondition.genruntimeconfig.cache
+C:\Users\0\Desktop\.Net-Core-Yeni-Baslayanlar\IfElseCondition\obj\Debug\net7.0\ref\IfElseCondition.dll
