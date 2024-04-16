@@ -11,7 +11,7 @@ namespace MathOperatos{
 			Console.WriteLine(y);
 			y += 2;
 			Console.WriteLine(y);
-			y /= 1;
+			y /= 1; 
 			Console.WriteLine(y);
 			x *= 2;
 			Console.WriteLine(x);
